@@ -5,4 +5,4 @@ Not tested against SAMBA/Linux/Unix.
 
 Usage:
 
-python smb12info.py <remote-IP-address>
+python smb12info.py remote-IP-address
