@@ -1,2 +1,3 @@
 # smb12info
-script that retrieves system info via unauthenticated SMB (v1 and v2 supported) session
+A python script that retrieves system info via unauthenticated SMB (v1 and v2 supported).
+Not tested against SAMBA/Linux/Unix.
